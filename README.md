@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kevin ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Seasoned Mobile Engineer ⚡️ Building mobile apps with Flutter/Dart. 
+Seasoned Mobile Engineer ⚡️ Building mobile apps with Flutter/Dart and Jetpackcompose/Kotlin
 
 
 <hr>
